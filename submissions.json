@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF40210291": {
+    "contest_id": 118,
+    "language": "GNU C++",
+    "path": "codeforces/118/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Task",
+    "problem_url": "https://codeforces.com/contest/118/problem/A",
+    "submission_id": "CF40210291",
+    "submission_url": "https://codeforces.com/contest/118/submission/40210291",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jul/12/2018 00:47"
+  },
   "CF40211869": {
     "contest_id": 231,
     "language": "GNU C++",
