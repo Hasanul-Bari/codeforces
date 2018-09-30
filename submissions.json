@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF43612917": {
+    "contest_id": 918,
+    "language": "GNU C++17",
+    "path": "codeforces/918/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Radio Station",
+    "problem_url": "https://codeforces.com/contest/918/problem/B",
+    "submission_id": "CF43612917",
+    "submission_url": "https://codeforces.com/contest/918/submission/43612917",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Sep/30/2018 20:57"
+  },
   "CF43867498": {
     "contest_id": 1059,
     "language": "GNU C++17",
