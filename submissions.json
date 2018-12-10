@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF46870658": {
+    "contest_id": 1084,
+    "language": "GNU C++17",
+    "path": "codeforces/1084/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Fair Nut and Elevator",
+    "problem_url": "https://codeforces.com/contest/1084/problem/A",
+    "submission_id": "CF46870658",
+    "submission_url": "https://codeforces.com/contest/1084/submission/46870658",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/10/2018 23:36"
+  },
   "CF46914864": {
     "contest_id": 831,
     "language": "GNU C++17",
