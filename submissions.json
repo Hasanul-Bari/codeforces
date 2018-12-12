@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF46939435": {
+    "contest_id": 937,
+    "language": "GNU C++17",
+    "path": "codeforces/937/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Olympiad",
+    "problem_url": "https://codeforces.com/contest/937/problem/A",
+    "submission_id": "CF46939435",
+    "submission_url": "https://codeforces.com/contest/937/submission/46939435",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/12/2018 21:41"
+  },
   "CF46940468": {
     "contest_id": 978,
     "language": "GNU C++17",
