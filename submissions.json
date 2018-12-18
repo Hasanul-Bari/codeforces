@@ -1382,6 +1382,22 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF47204176": {
+    "contest_id": 1092,
+    "language": "GNU C++17",
+    "path": "codeforces/1092/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Teams Forming",
+    "problem_url": "https://codeforces.com/contest/1092/problem/B",
+    "submission_id": "CF47204176",
+    "submission_url": "https://codeforces.com/contest/1092/submission/47204176",
+    "tags": [
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/18/2018 20:56"
+  },
   "CF47215279": {
     "contest_id": 1092,
     "language": "GNU C++17",
