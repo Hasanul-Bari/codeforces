@@ -2,10 +2,7 @@
 using namespace std;
 
 map<int,int> p;
-vector <int> adj[100003];
-vector <int> cost[100003];
-long long d[100003];
-priority_queue <int> q;
+
 
 void printpath(int u,int s)
 {
@@ -25,6 +22,8 @@ int main()
 {
     int n,e;
     cin>>n>>e;
+    vector <int> adj[n+1];
+    vector <int> cost[n+1];
 
 
     int u,v,w;
@@ -49,7 +48,7 @@ int main()
 
     int src=1;
 
-
+    long long d[n+1];
 
     for(int i=1; i<=n; i++)
         d[i]=1e18;
@@ -58,6 +57,7 @@ int main()
 
 
     d[src]=1;
+    priority_queue <int> q;
 
     q.push(src);
 
