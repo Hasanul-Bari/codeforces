@@ -26,12 +26,12 @@ int main()
 
     while(q.empty()!=1)
     {
-        ll x=q.front();
+        int x=q.front();
         q.pop();
 
-        for(ll i=2; i<=3; i++)
+        for(int i=2; i<=3; i++)
         {
-            ll y=x*i;
+            int y=x*i;
             if(visited[y]==0 && y<=des)
             {
                 visited[y]=1;
