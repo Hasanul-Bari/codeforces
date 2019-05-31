@@ -1382,6 +1382,24 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF54889664": {
+    "contest_id": 1033,
+    "language": "GNU C++17",
+    "path": "codeforces/1033/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "King Escape",
+    "problem_url": "https://codeforces.com/contest/1033/problem/A",
+    "submission_id": "CF54889664",
+    "submission_url": "https://codeforces.com/contest/1033/submission/54889664",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/01/2019 01:30"
+  },
   "CF54890916": {
     "contest_id": 292,
     "language": "GNU C++17",
