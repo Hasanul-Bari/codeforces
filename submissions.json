@@ -1382,6 +1382,24 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF56580869": {
+    "contest_id": 1189,
+    "language": "GNU C++17",
+    "path": "codeforces/1189/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Number Circle",
+    "problem_url": "https://codeforces.com/contest/1189/problem/B",
+    "submission_id": "CF56580869",
+    "submission_url": "https://codeforces.com/contest/1189/submission/56580869",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jul/05/2019 22:09"
+  },
   "CF56593924": {
     "contest_id": 1189,
     "language": "GNU C++17",
