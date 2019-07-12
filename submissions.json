@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF56923145": {
+    "contest_id": 1191,
+    "language": "GNU C++17",
+    "path": "codeforces/1191/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tokitsukaze and Mahjong",
+    "problem_url": "https://codeforces.com/contest/1191/problem/B",
+    "submission_id": "CF56923145",
+    "submission_url": "https://codeforces.com/contest/1191/submission/56923145",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/12/2019 21:55"
+  },
   "CF57333391": {
     "contest_id": 1195,
     "language": "GNU C++17",
