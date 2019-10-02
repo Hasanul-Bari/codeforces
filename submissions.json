@@ -1382,6 +1382,22 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF61718665": {
+    "contest_id": 1234,
+    "language": "GNU C++17",
+    "path": "codeforces/1234/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Equalize Prices Again",
+    "problem_url": "https://codeforces.com/contest/1234/problem/A",
+    "submission_id": "CF61718665",
+    "submission_url": "https://codeforces.com/contest/1234/submission/61718665",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/02/2019 19:14"
+  },
   "CF61720034": {
     "contest_id": 1234,
     "language": "GNU C++17",
