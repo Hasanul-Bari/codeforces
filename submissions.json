@@ -1382,6 +1382,22 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF61961298": {
+    "contest_id": 733,
+    "language": "GNU C++17",
+    "path": "codeforces/733/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Parade",
+    "problem_url": "https://codeforces.com/contest/733/problem/B",
+    "submission_id": "CF61961298",
+    "submission_url": "https://codeforces.com/contest/733/submission/61961298",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Oct/06/2019 13:32"
+  },
   "CF61971255": {
     "contest_id": 1215,
     "language": "GNU C++17",
