@@ -1382,6 +1382,24 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF62431833": {
+    "contest_id": 94,
+    "language": "GNU C++17",
+    "path": "codeforces/94/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Friends",
+    "problem_url": "https://codeforces.com/contest/94/problem/B",
+    "submission_id": "CF62431833",
+    "submission_url": "https://codeforces.com/contest/94/submission/62431833",
+    "tags": [
+      "graphs",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/12/2019 22:04"
+  },
   "CF62622474": {
     "contest_id": 1244,
     "language": "GNU C++17",
