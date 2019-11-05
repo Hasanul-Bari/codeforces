@@ -1382,6 +1382,24 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF64310989": {
+    "contest_id": 270,
+    "language": "GNU C++17",
+    "path": "codeforces/270/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Multithreading",
+    "problem_url": "https://codeforces.com/contest/270/problem/B",
+    "submission_id": "CF64310989",
+    "submission_url": "https://codeforces.com/contest/270/submission/64310989",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/05/2019 18:45"
+  },
   "CF64313023": {
     "contest_id": 637,
     "language": "GNU C++17",
