@@ -1382,6 +1382,22 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF66284432": {
+    "contest_id": 39,
+    "language": "GNU C++17",
+    "path": "codeforces/39/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cubical Planet",
+    "problem_url": "https://codeforces.com/contest/39/problem/D",
+    "submission_id": "CF66284432",
+    "submission_url": "https://codeforces.com/contest/39/submission/66284432",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Dec/05/2019 00:36"
+  },
   "CF66414234": {
     "contest_id": 1265,
     "language": "GNU C++17",
