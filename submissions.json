@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF71878595": {
+    "contest_id": 1287,
+    "language": "GNU C++17",
+    "path": "codeforces/1287/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Angry Students",
+    "problem_url": "https://codeforces.com/contest/1287/problem/A",
+    "submission_id": "CF71878595",
+    "submission_url": "https://codeforces.com/contest/1287/submission/71878595",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/26/2020 00:39"
+  },
   "CF72174575": {
     "contest_id": 1321,
     "language": "GNU C++17",
