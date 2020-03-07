@@ -1382,6 +1382,25 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF72626215": {
+    "contest_id": 1305,
+    "language": "GNU C++17",
+    "path": "codeforces/1305/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kuroni and the Gifts",
+    "problem_url": "https://codeforces.com/contest/1305/problem/A",
+    "submission_id": "CF72626215",
+    "submission_url": "https://codeforces.com/contest/1305/submission/72626215",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2020 15:02"
+  },
   "CF72631314": {
     "contest_id": 1323,
     "language": "GNU C++17",
