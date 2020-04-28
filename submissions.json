@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF78370277": {
+    "contest_id": 730,
+    "language": "GNU C++17",
+    "path": "codeforces/730/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Delete Them",
+    "problem_url": "https://codeforces.com/contest/730/problem/H",
+    "submission_id": "CF78370277",
+    "submission_url": "https://codeforces.com/contest/730/submission/78370277",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/28/2020 16:30"
+  },
   "CF78406502": {
     "contest_id": 1342,
     "language": "GNU C++17",
