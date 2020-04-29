@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF78462486": {
+    "contest_id": 1307,
+    "language": "GNU C++17",
+    "path": "codeforces/1307/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cow and Haybales",
+    "problem_url": "https://codeforces.com/contest/1307/problem/A",
+    "submission_id": "CF78462486",
+    "submission_url": "https://codeforces.com/contest/1307/submission/78462486",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/29/2020 16:01"
+  },
   "CF78586290": {
     "contest_id": 1296,
     "language": "GNU C++17",
