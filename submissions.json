@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF84141547": {
+    "contest_id": 1367,
+    "language": "GNU C++17",
+    "path": "codeforces/1367/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Even Array",
+    "problem_url": "https://codeforces.com/contest/1367/problem/B",
+    "submission_id": "CF84141547",
+    "submission_url": "https://codeforces.com/contest/1367/submission/84141547",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2020 15:01"
+  },
   "CF84144214": {
     "contest_id": 1367,
     "language": "GNU C++17",
