@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF88042058": {
+    "contest_id": 1107,
+    "language": "GNU C++17",
+    "path": "codeforces/1107/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Digital root",
+    "problem_url": "https://codeforces.com/contest/1107/problem/B",
+    "submission_id": "CF88042058",
+    "submission_url": "https://codeforces.com/contest/1107/submission/88042058",
+    "tags": [
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Jul/26/2020 15:03"
+  },
   "CF89529580": {
     "contest_id": 296,
     "language": "GNU C++17",
