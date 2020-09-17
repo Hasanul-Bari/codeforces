@@ -1382,6 +1382,23 @@
     ],
     "timestamp": "Jan/30/2021 21:50"
   },
+  "CF93033451": {
+    "contest_id": 199,
+    "language": "GNU C++17",
+    "path": "codeforces/199/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Jumping on Walls",
+    "problem_url": "https://codeforces.com/contest/199/problem/D",
+    "submission_id": "CF93033451",
+    "submission_url": "https://codeforces.com/contest/199/submission/93033451",
+    "tags": [
+      "dfs and similar",
+      "shortest paths",
+      "*1400"
+    ],
+    "timestamp": "Sep/17/2020 15:30"
+  },
   "CF93061703": {
     "contest_id": 17,
     "language": "GNU C++17",
