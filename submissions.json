@@ -1,4 +1,21 @@
 {
+  "CF101455120": {
+    "contest_id": 1440,
+    "language": "GNU C++17",
+    "path": "codeforces/1440/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buy the String",
+    "problem_url": "https://codeforces.com/contest/1440/problem/A",
+    "submission_id": "CF101455120",
+    "submission_url": "https://codeforces.com/contest/1440/submission/101455120",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/17/2020 00:28"
+  },
   "CF101455166": {
     "contest_id": 1440,
     "language": "GNU C++17",
