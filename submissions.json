@@ -1,4 +1,21 @@
 {
+  "CF104601352": {
+    "contest_id": 1433,
+    "language": "PyPy 3",
+    "path": "codeforces/1433/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Yet Another Bookshelf",
+    "problem_url": "https://codeforces.com/contest/1433/problem/B",
+    "submission_id": "CF104601352",
+    "submission_url": "https://codeforces.com/contest/1433/submission/104601352",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/17/2021 22:03"
+  },
   "CF104605340": {
     "contest_id": 776,
     "language": "PyPy 3",
