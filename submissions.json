@@ -1,4 +1,22 @@
 {
+  "CF104605340": {
+    "contest_id": 776,
+    "language": "PyPy 3",
+    "path": "codeforces/776/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Serial Killer",
+    "problem_url": "https://codeforces.com/contest/776/problem/A",
+    "submission_id": "CF104605340",
+    "submission_url": "https://codeforces.com/contest/776/submission/104605340",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jan/17/2021 22:56"
+  },
   "CF104606456": {
     "contest_id": 808,
     "language": "PyPy 3",
