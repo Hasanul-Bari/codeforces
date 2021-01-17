@@ -1,4 +1,20 @@
 {
+  "CF104594065": {
+    "contest_id": 119,
+    "language": "PyPy 3",
+    "path": "codeforces/119/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Epic Game",
+    "problem_url": "https://codeforces.com/contest/119/problem/A",
+    "submission_id": "CF104594065",
+    "submission_url": "https://codeforces.com/contest/119/submission/104594065",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/17/2021 20:34"
+  },
   "CF104595626": {
     "contest_id": 9,
     "language": "PyPy 3",
