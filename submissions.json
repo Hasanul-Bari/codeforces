@@ -1,4 +1,20 @@
 {
+  "CF104711596": {
+    "contest_id": 378,
+    "language": "PyPy 3",
+    "path": "codeforces/378/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Playing with Dice",
+    "problem_url": "https://codeforces.com/contest/378/problem/A",
+    "submission_id": "CF104711596",
+    "submission_url": "https://codeforces.com/contest/378/submission/104711596",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jan/19/2021 00:03"
+  },
   "CF104782415": {
     "contest_id": 1474,
     "language": "GNU C++17",
