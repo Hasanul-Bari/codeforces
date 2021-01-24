@@ -1,4 +1,22 @@
 {
+  "CF105236779": {
+    "contest_id": 1409,
+    "language": "GNU C++17",
+    "path": "codeforces/1409/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimum Product",
+    "problem_url": "https://codeforces.com/contest/1409/problem/B",
+    "submission_id": "CF105236779",
+    "submission_url": "https://codeforces.com/contest/1409/submission/105236779",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/24/2021 21:19"
+  },
   "CF105242514": {
     "contest_id": 1409,
     "language": "GNU C++17",
