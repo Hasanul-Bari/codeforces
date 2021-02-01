@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-523 | [B - Lucky Mask](https://codeforces.com/contest/146/problem/B) | [GNU C++17](./codeforces/146/B.cpp) | `brute force` `implementation` `*1300` | Feb/03/2021 23:37 | 
-522 | [B - Soldier and Badges](https://codeforces.com/contest/546/problem/B) | [GNU C++17](./codeforces/546/B.cpp) | `brute force` `greedy` `implementation` `sortings` `*1200` | Feb/03/2021 21:46 | 
-521 | [B - Книга - лучший подарок](https://codeforces.com/contest/609/problem/B) | [GNU C++17](./codeforces/609/B.cpp) | `constructive algorithms` `implementation` `*1100` | Feb/02/2021 23:25 | 
-520 | [B - Coupons and Discounts](https://codeforces.com/contest/731/problem/B) | [GNU C++17](./codeforces/731/B.cpp) | `constructive algorithms` `greedy` `*1100` | Feb/02/2021 23:13 | 
+524 | [B - Lucky Mask](https://codeforces.com/contest/146/problem/B) | [GNU C++17](./codeforces/146/B.cpp) | `brute force` `implementation` `*1300` | Feb/03/2021 23:37 | 
+523 | [B - Soldier and Badges](https://codeforces.com/contest/546/problem/B) | [GNU C++17](./codeforces/546/B.cpp) | `brute force` `greedy` `implementation` `sortings` `*1200` | Feb/03/2021 21:46 | 
+522 | [B - Книга - лучший подарок](https://codeforces.com/contest/609/problem/B) | [GNU C++17](./codeforces/609/B.cpp) | `constructive algorithms` `implementation` `*1100` | Feb/02/2021 23:25 | 
+521 | [B - Coupons and Discounts](https://codeforces.com/contest/731/problem/B) | [GNU C++17](./codeforces/731/B.cpp) | `constructive algorithms` `greedy` `*1100` | Feb/02/2021 23:13 | 
+520 | [B - Suffix Operations](https://codeforces.com/contest/1453/problem/B) | [GNU C++17](./codeforces/1453/B.cpp) | `constructive algorithms` `implementation` `*1400` | Feb/01/2021 21:27 | 
 519 | [B - Magical Calendar](https://codeforces.com/contest/1371/problem/B) | [GNU C++17](./codeforces/1371/B.cpp) | `math` `*1200` | Jan/31/2021 21:55 | 
 518 | [A - Magical Sticks](https://codeforces.com/contest/1371/problem/A) | [GNU C++17](./codeforces/1371/A.cpp) | `math` `*800` | Jan/31/2021 21:06 | 
 517 | [B - Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | [GNU C++17](./codeforces/1438/B.cpp) | `constructive algorithms` `data structures` `greedy` `sortings` `*1000` | Jan/30/2021 21:50 | 
