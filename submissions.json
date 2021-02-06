@@ -1517,6 +1517,24 @@
     ],
     "timestamp": "Feb/03/2021 23:37"
   },
+  "CF106695490": {
+    "contest_id": 1481,
+    "language": "GNU C++17",
+    "path": "codeforces/1481/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fence Painting",
+    "problem_url": "https://codeforces.com/contest/1481/problem/C",
+    "submission_id": "CF106695490",
+    "submission_url": "https://codeforces.com/contest/1481/submission/106695490",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Feb/07/2021 00:08"
+  },
   "CF106756381": {
     "contest_id": 1480,
     "language": "GNU C++17",
