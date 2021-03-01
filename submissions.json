@@ -2076,6 +2076,22 @@
     ],
     "timestamp": "Feb/28/2021 20:36"
   },
+  "CF108827435": {
+    "contest_id": 681,
+    "language": "GNU C++17",
+    "path": "codeforces/681/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Economy Game",
+    "problem_url": "https://codeforces.com/contest/681/problem/B",
+    "submission_id": "CF108827435",
+    "submission_url": "https://codeforces.com/contest/681/submission/108827435",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Mar/01/2021 23:56"
+  },
   "CF108881188": {
     "contest_id": 1093,
     "language": "GNU C++17",
